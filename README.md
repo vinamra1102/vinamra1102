@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**vinamra1102/vinamra1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Vinamra Bhonsle</h1>
+<h3 align="center">B.Tech IT @ Manipal University Jaipur | Cybersecurity,Digital Forensics & Web Development</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinamra1102&label=Profile%20views&color=0e75b6&style=flat" alt="vinamra1102" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vinamra1102)
+
+- 📫 How to reach me **vinamrabhonsle@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/172x1tkYF-ld-WV_ChR83lhgwcNFzKHSv/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vinamra bhonsle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinamra bhonsle" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vinamra1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinamra1102" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vinamra1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinamra1102" height="30" width="40" /></a>
+</p>
+
+
