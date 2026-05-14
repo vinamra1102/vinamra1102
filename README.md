@@ -1,6 +1,6 @@
 
 
-# Hi, I'm <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=26&pause=1000&color=328A11&width=435&lines=Vinamra+Bhonsle;Web+%26++App+Developer;Student+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
+# Hi, I'm <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=26&pause=1000&color=328A11&width=435&lines=Vinamra+Bhonsle;Web+%26++App+Developer;Student+%40+Manipal+University)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 IT student and developer focused on Web & App, cybersecurity, backend systems, and automation. I build real-world projects including vulnerability scanners, forensic recovery tools, AI-powered applications, and scalable web platforms using Python, Django, React, and modern development tools. Passionate about solving practical problems through intelligent systems, clean architecture, and continuous experimentation.
