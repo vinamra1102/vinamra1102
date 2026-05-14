@@ -85,8 +85,8 @@ If you're building something ambitious, scalable, or creatively challenging, fee
 </div>
 
 ## 📬 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/vinamra-bhonsle-b2b569219/](#)
-- 📧 Email: [vinamrabhonsle@gmail.com](#)
+- 💼 LinkedIn: [linkedin.com/in/vinamra-bhonsle-b2b569219/](#https://www.linkedin.com/in/vinamra-bhonsle-b2b569219/)
+- 📧 Email: [vinamrabhonsle@gmail.com](#mailto:vinamrabhonsle@gmail.com)
 - 🌐 Portfolio: [vinamrabhonsle.site](#)
   
 Open to collaborations, internships, freelance work, and building cool things.
