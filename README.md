@@ -1,10 +1,6 @@
 
 
 # Hi, I'm <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=26&pause=1000&color=328A11&width=435&lines=Vinamra+Bhonsle;Web+%26++App+Developer;Student+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
-<img src="https://avatars.githubusercontent.com/u/143907433?v=4" alt="Circular Trimmed Photo" style="width: 25%; height: 8%; object-fit: cover; border-radius: 50%; overflow: hidden;">
-
-Welcome to my GitHub profile! I'm a passionate developer with expertise in various programming languages and technologies. <br>
-You can check out my [**portfolio**](https://vinamrabhonsle.site/).
 
 # Vinamra Bhonsle
 
