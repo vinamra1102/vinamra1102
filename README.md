@@ -74,7 +74,8 @@ If you're building something ambitious, scalable, or creatively challenging, fee
 - GitHub Trophies: ![trophy](https://github-profile-trophy.vercel.app/?username=Vinamra1102&theme=matrix)
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinamra1102&theme=github_dark" width="100%"/><br>
+	
+ <br>
   
   <table >
     <tr>
